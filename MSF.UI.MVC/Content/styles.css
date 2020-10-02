@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 /*!
 * Start Bootstrap - Agency v6.0.2 (https://startbootstrap.com/template-overviews/agency)
 * Copyright 2013-2020 Start Bootstrap
@@ -10067,9 +10067,9 @@ img::-moz-selection {
 }
 
 #mainNav {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    background-color: #b81616;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #212529;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -10116,11 +10116,11 @@ img::-moz-selection {
     height: 2rem;
     transition: height 0.3s ease-in-out;
   }
-    #mainNav.navbar-shrink {
-        padding-top: 1rem;
-        padding-bottom: 1rem;
-        background-color: #b81616;
-    }
+  #mainNav.navbar-shrink {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #212529;
+  }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
   }
@@ -10136,15 +10136,15 @@ img::-moz-selection {
   }
 }
 header.masthead {
-    padding-top: 10.5rem;
-    padding-bottom: 6rem;
-    text-align: center;
-    color: #2b2625;
-    background-image: url("../assets/img/header-bg.jpg");
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-position: center center;
-    background-size: cover;
+  padding-top: 10.5rem;
+  padding-bottom: 6rem;
+  text-align: center;
+  color: #fff;
+  background-image: url("../assets/img/header-bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
